@@ -90,10 +90,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Airbnb-clone",
+        "category": "Demo clone of Airbnb",
+        "image": "airbnb-clone.png",
+        "url": "https://gangairbnb.netlify.app"
       },
       {
         "title": "Fury Fighting Gear",
@@ -106,18 +106,6 @@
         "category": "Website I built for a restaurant I like in Thailand",
         "image": "original-thai-food.jpg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
       }
     ]
   },
