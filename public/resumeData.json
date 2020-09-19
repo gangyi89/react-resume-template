@@ -96,16 +96,10 @@
         "url": "https://gangairbnb.netlify.app"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Bezer Initiative",
+        "category": "building awareness for social cohesion",
+        "image": "bezer.png",
+        "url": "https://bezer.netlify.app"
       }
     ]
   },
